@@ -1,0 +1,13 @@
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\bin\Debug\net10.0\PublicHolidayApp2.exe
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\bin\Debug\net10.0\PublicHolidayApp2.deps.json
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\bin\Debug\net10.0\PublicHolidayApp2.runtimeconfig.json
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\bin\Debug\net10.0\PublicHolidayApp2.dll
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\PublicHolidayApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\PublicHolidayApp2.AssemblyInfoInputs.cache
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\PublicHolidayApp2.AssemblyInfo.cs
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\PublicHolidayApp2.csproj.CoreCompileInputs.cache
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\PublicHolidayApp2.dll
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\refint\PublicHolidayApp2.dll
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\PublicHolidayApp2.pdb
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\PublicHolidayApp2.genruntimeconfig.cache
+C:\Users\agirm\source\repos\PublicHolidayApp2\PublicHolidayApp2\obj\Debug\net10.0\ref\PublicHolidayApp2.dll

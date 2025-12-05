@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agirm\\source\\repos\\PublicHolidayApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E31C5AC-009B-B470-A932-BCA0CE30E27B}|PublicHolidayApp2\\PublicHolidayApp2.csproj|c:\\users\\agirm\\source\\repos\\publicholidayapp2\\publicholidayapp2\\publicholidaytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E31C5AC-009B-B470-A932-BCA0CE30E27B}|PublicHolidayApp2\\PublicHolidayApp2.csproj|solutionrelative:publicholidayapp2\\publicholidaytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E31C5AC-009B-B470-A932-BCA0CE30E27B}|PublicHolidayApp2\\PublicHolidayApp2.csproj|c:\\users\\agirm\\source\\repos\\publicholidayapp2\\publicholidayapp2\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E31C5AC-009B-B470-A932-BCA0CE30E27B}|PublicHolidayApp2\\PublicHolidayApp2.csproj|solutionrelative:publicholidayapp2\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E31C5AC-009B-B470-A932-BCA0CE30E27B}|PublicHolidayApp2\\PublicHolidayApp2.csproj|c:\\users\\agirm\\source\\repos\\publicholidayapp2\\publicholidayapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E31C5AC-009B-B470-A932-BCA0CE30E27B}|PublicHolidayApp2\\PublicHolidayApp2.csproj|solutionrelative:publicholidayapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicHolidayTracker.cs",
+              "DocumentMoniker": "C:\\Users\\agirm\\source\\repos\\PublicHolidayApp2\\PublicHolidayApp2\\PublicHolidayTracker.cs",
+              "RelativeDocumentMoniker": "PublicHolidayApp2\\PublicHolidayTracker.cs",
+              "ToolTip": "C:\\Users\\agirm\\source\\repos\\PublicHolidayApp2\\PublicHolidayApp2\\PublicHolidayTracker.cs",
+              "RelativeToolTip": "PublicHolidayApp2\\PublicHolidayTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:45:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\agirm\\source\\repos\\PublicHolidayApp2\\PublicHolidayApp2\\Holiday.cs",
+              "RelativeDocumentMoniker": "PublicHolidayApp2\\Holiday.cs",
+              "ToolTip": "C:\\Users\\agirm\\source\\repos\\PublicHolidayApp2\\PublicHolidayApp2\\Holiday.cs",
+              "RelativeToolTip": "PublicHolidayApp2\\Holiday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:44:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agirm\\source\\repos\\PublicHolidayApp2\\PublicHolidayApp2\\Program.cs",
+              "RelativeDocumentMoniker": "PublicHolidayApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\agirm\\source\\repos\\PublicHolidayApp2\\PublicHolidayApp2\\Program.cs",
+              "RelativeToolTip": "PublicHolidayApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:41:28.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
